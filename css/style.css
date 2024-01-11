@@ -50,8 +50,6 @@ a {
 	--big__letter: #ffab6b;
 	--border-big: none;
 	--cover: cover;
-	--5-dots: url(css/img/block.svg);
-	--cube: url(css/img/cub.svg);
 	--5-dots__dark: none;
 	--font: 700;
 	--font-dark: 400;
@@ -87,8 +85,6 @@ a {
 	--big__letter: #171717;
 	--border-big: 1px solid #b3b3b3;
 	--5-dots: none;
-	--5-dots__dark: url(css/img/toc.svg);
-	--cube: url(css/img/cube__dark.svg);
 	--font: 400;
 	--font-dark: 700;
 	--display: block;
